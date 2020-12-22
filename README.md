@@ -1,2 +1,2 @@
-# rec_a_meal
+# Recc A Meal
 Recommend a meal based on detected ingredients
